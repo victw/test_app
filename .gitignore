@@ -14,3 +14,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#added per listing 1.7
+# Ignore other unneeded files.
+database.yml
+doc/
